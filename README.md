@@ -1,7 +1,7 @@
 # TrabalhoFinalESII
 
 Nome: Nicolas Sommerfeld Novaes      RA: 1840482013040
-Nome: Gabriel                        RA: 
+Nome: Gabriel Camargo dos Anjos      RA: 1840482012011
 
 Projeto "MY GYM"
 
