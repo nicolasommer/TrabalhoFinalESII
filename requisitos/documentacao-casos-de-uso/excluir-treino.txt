@@ -1,0 +1,55 @@
+NEGÓCIO: SISTEMA PARA MARCAR TREINO EM ACADEMIAS
+_____________________________
+
+PROBLEMA / OPORTUNIDADE:
+
+Uma frequentante de academia gostaria de marcar treinos da sua própria casa sem precisar gastar tempo e dinheiro indo até a academia pessoalmente. Donos de academia gostariam de divulgar o serviço de suas academias de forma mais eficaz e abrangente buscando novos usuários.
+_____________________________
+
+ATIVIDADES DO NEGÓCIO:
+
+- Exclusão de treinos agendados pelo usuário
+_____________________________
+
+PROCESSOS DO NEGÓCIO:
+
+O usuário a partir da lista poderá excluir um treino pelo botão de exclusão localizado do lado das informações do treino. Quando ele clicar, automaticamente este treino será cancelado e excluido da lista.
+_____________________________
+
+REGRAS DE NEGÓCIO:
+
+RN0001 - O SISTEMA DEVE OBRIGATORIAMENTE APRESENTAR UMA TELA DE CONFIRMAÇÃO DE EXLUSÃO AO CLICAR NO BOTÃO DE EXCLUIR PELA PRIMEIRA VEZ
+_____________________________
+
+STAKEHOLDERS:
+
+- Desenvolvedor do Software
+- Dono de academia
+- Frequentador de academia
+_____________________________
+
+VOCÁBULOS DE NEGÓCIO:
+
+- GYM: Academia de musculação
+_____________________________
+
+REQUISITOS DE SISTEMA:
+
+FUNCIONAL:
+
+- O SISTEMA DEVE REMOVER O TREINO AUTOMATICAMENTE QUANDO ELE FOR EXCLUÍDO
+
+NÃO FUNCIONAL: 
+
+- O SISTEMA DEVE EXCLUIR OS TREINOS EXPIRADOS DA LISTA.
+_____________________________
+
+REQUISITOS DE STAKEHOLDERS:
+
+FUNCIONAL:
+
+- O SISTEMA DEVE PERMITIR QUE CADA ITEM DA LISTA SEJA CLICÁVEL.
+
+NÃO FUNCIONAL:
+
+- O SISTEMA DEVE APRESENTAR UMA INTERFACE INTUITIVA NA LISTAGEM DE TREINOS.

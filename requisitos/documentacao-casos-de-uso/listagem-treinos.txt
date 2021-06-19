@@ -1,0 +1,55 @@
+NEGÓCIO: SISTEMA PARA MARCAR TREINO EM ACADEMIAS
+_____________________________
+
+PROBLEMA / OPORTUNIDADE:
+
+Uma frequentante de academia gostaria de marcar treinos da sua própria casa sem precisar gastar tempo e dinheiro indo até a academia pessoalmente. Donos de academia gostariam de divulgar o serviço de suas academias de forma mais eficaz e abrangente buscando novos usuários.
+_____________________________
+
+ATIVIDADES DO NEGÓCIO:
+
+- Listar treinos agendados pelo usuário
+_____________________________
+
+PROCESSOS DO NEGÓCIO:
+
+O usuário que já marcou treinos pelo aplicativo poderá acessar a listagem deles através do botão de listagem. Quando ele acessar essa tela será mostrado todos os treinos que estão pendentes a ser feito. Na tela de listagem ele encontrará as informações preenchidas na hora de cadastro do treino como o horário, o valor, o endereço do local e o telefone da academia.
+_____________________________
+
+REGRAS DE NEGÓCIO:
+
+RN0001 - A ordem de treinos listados deverá ser relativa com a data mais próxima de treino marcado.
+_____________________________
+
+STAKEHOLDERS:
+
+- Desenvolvedor do Software
+- Dono de academia
+- Frequentador de academia
+_____________________________
+
+VOCÁBULOS DE NEGÓCIO:
+
+- GYM: Academia de musculação
+_____________________________
+
+REQUISITOS DE SISTEMA:
+
+FUNCIONAL:
+
+- TODOS OS TREINOS PENDENTES DEVERÃO SER LISTADOS NESSA TELA
+
+NÃO FUNCIONAL: 
+
+- O SISTEMA DEVE EXCLUIR OS TREINOS EXPIRADOS DA LISTA.
+_____________________________
+
+REQUISITOS DE STAKEHOLDERS:
+
+FUNCIONAL:
+
+- O SISTEMA DEVE PERMITIR QUE CADA ITEM DA LISTA SEJA CLICÁVEL.
+
+NÃO FUNCIONAL:
+
+- O SISTEMA DEVE APRESENTAR UMA INTERFACE INTUITIVA NA LISTAGEM DE TREINOS.

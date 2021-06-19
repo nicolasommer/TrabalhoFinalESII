@@ -1,0 +1,61 @@
+NEGÓCIO: SISTEMA PARA MARCAR TREINO EM ACADEMIAS
+_____________________________
+
+PROBLEMA / OPORTUNIDADE:
+
+Uma frequentante de academia gostaria de marcar treinos da sua própria casa sem precisar gastar tempo e dinheiro indo até a academia pessoalmente. Donos de academia gostariam de divulgar o serviço de suas academias de forma mais eficaz e abrangente buscando novos usuários.
+_____________________________
+
+ATIVIDADES DO NEGÓCIO:
+
+- Cadastrar usuário no aplicativo
+_____________________________
+
+PROCESSOS DO NEGÓCIO:
+
+O usuário que pretende treinar em academias poderá se cadastrar no aplicativo a partir do botão de registrar-se informando dados de nome, email, senha, data de nascimento e genêro. Caso o usuário seja um dono de academia e queira cadastrar seu negócio no aplicativo ele poderá cadastrar dados adicionais como o nome da academia, telefone, valor da diária, horário de funcionamento e fotos da academia.
+_____________________________
+
+REGRAS DE NEGÓCIO:
+
+RN0001 - O usuário deverá ser maior de idade para conseguir se registrar no aplicativo.
+
+RN002 - O email cadastrado pelo usuário deverá ser válido e ainda não vinculado a outro usuário.
+_____________________________
+
+STAKEHOLDERS:
+
+- Desenvolvedor do Software
+- Dono de academia
+- Frequentador de academia
+_____________________________
+
+VOCÁBULOS DE NEGÓCIO:
+
+- GYM: Academia de musculação
+_____________________________
+
+REQUISITOS DE SISTEMA:
+
+FUNCIONAL:
+
+- A SENHA DIGITADA NO FORMULÁRIO DE CADASTRO PRECISARÁ TER NO MINIMO UMA LETRA MAIUSCULA, UM SÍMBOLO, UM NÚMERO E PELO MENOS 12 DIGITOS E NO MÁXIMO 24.
+
+- A SENHA DIGITADA NA PARTE DE "CONFIRMAÇÃO DE SENHA" DEVERÁ OBRIGATORIAMENTE SER IDÊNTICA A QUE ESTÁ INSERIDA NA PARTE DE "SENHA".
+
+- AS FOTOS REGISTRADAS NA PARTE DO FORMULÁRIO EXCLUSIVA PARA DONOS DE ACADEMIA DEVERÃO SER VÁLIDADAS PELO SISTEMA, CASO CONTRÁRIO O CADASTRO DE ACADEMIA SERÁ CANCELADO.
+
+NÃO FUNCIONAL: 
+
+- O SISTEMA DEVE PEDIR UMA ATUALIZAÇÃO DE DADOS A CADA TRÊS MESES.
+_____________________________
+
+REQUISITOS DE STAKEHOLDERS:
+
+FUNCIONAL:
+
+- O SISTEMA DEVE PEDIR QUE O USUÁRIO CONFIRME O ENDEREÇO DE E-MAIL APÓS O CADASTRO.
+
+NÃO FUNCIONAL:
+
+- O SISTEMA DEVE APRESENTAR UMA INTERFACE INTUITIVA NO FORMULÁRIO DE CADASTRO.
